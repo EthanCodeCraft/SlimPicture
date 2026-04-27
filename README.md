@@ -35,7 +35,7 @@ You've been there:
 
 ### 🚀 Blazing Fast Compression
 
-Compress hundreds of images in seconds. Our advanced algorithms optimize every pixel without sacrificing visual quality.
+Compress images in parallel using all your CPU cores. Process dozens of images in seconds, hundreds in minutes.
 
 ### 🔒 100% Local Processing
 
@@ -179,7 +179,6 @@ _Limited time offer: 50% off! One-time payment. No subscription. No hidden fees.
 
 - 📧 **Email**: support@snapupscale.com
 - 🌐 **Website**: [snapupscale.com/slimpicture](https://snapupscale.com/slimpicture/)
-- 📖 **Documentation**: [snapupscale.com/slimpicture/docs](https://snapupscale.com/slimpicture/docs)
 
 ---
 
