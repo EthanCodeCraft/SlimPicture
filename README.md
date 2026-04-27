@@ -179,6 +179,7 @@ _Limited time offer: 50% off! One-time payment. No subscription. No hidden fees.
 
 - 📧 **Email**: support@snapupscale.com
 - 🌐 **Website**: [snapupscale.com/slimpicture](https://snapupscale.com/slimpicture/)
+- 📖 **Documentation**: [snapupscale.com/slimpicture/docs](https://snapupscale.com/slimpicture/docs)
 
 ---
 
